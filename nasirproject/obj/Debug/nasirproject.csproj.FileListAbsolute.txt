@@ -1,0 +1,9 @@
+E:\university\Semester 7\Computer Graphics\Project\nasirproject\nasirproject\bin\Debug\nasirproject.exe.config
+E:\university\Semester 7\Computer Graphics\Project\nasirproject\nasirproject\bin\Debug\nasirproject.exe
+E:\university\Semester 7\Computer Graphics\Project\nasirproject\nasirproject\bin\Debug\nasirproject.pdb
+E:\university\Semester 7\Computer Graphics\Project\nasirproject\nasirproject\obj\Debug\nasirproject.csprojResolveAssemblyReference.cache
+E:\university\Semester 7\Computer Graphics\Project\nasirproject\nasirproject\obj\Debug\nasirproject.Form1.resources
+E:\university\Semester 7\Computer Graphics\Project\nasirproject\nasirproject\obj\Debug\nasirproject.Properties.Resources.resources
+E:\university\Semester 7\Computer Graphics\Project\nasirproject\nasirproject\obj\Debug\nasirproject.csproj.GenerateResource.Cache
+E:\university\Semester 7\Computer Graphics\Project\nasirproject\nasirproject\obj\Debug\nasirproject.exe
+E:\university\Semester 7\Computer Graphics\Project\nasirproject\nasirproject\obj\Debug\nasirproject.pdb
